@@ -1,0 +1,6 @@
+ma/projet/banqueservice/web/CompteRestController.class
+ma/projet/banqueservice/BanqueServiceApplication.class
+ma/projet/banqueservice/entities/TypeCompte.class
+ma/projet/banqueservice/entities/Compte.class
+ma/projet/banqueservice/entities/CompteList.class
+ma/projet/banqueservice/repositories/CompteRepository.class
